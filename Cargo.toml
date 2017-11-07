@@ -1,0 +1,10 @@
+[package]
+authors = ["Tim Ryan <id@timryan.org>"]
+name = "dbf2csv"
+version = "0.1.0"
+license = "AGPL-3.0"
+description = "dbf to csv conversion"
+
+[dependencies]
+csv = "1.0.0-beta.5"
+dbf = "0.1.1"
